@@ -1,0 +1,508 @@
+{
+  "ksList": [
+    {
+      "bm": "1",
+      "name": "消杀科",
+      "kszl": "检查",
+      "sort": "1",
+      "bz": "1",
+      "id": "ksList1631756808565"
+    },
+    {
+      "bm": "2",
+      "name": "公共场所科",
+      "kszl": "检查",
+      "sort": "2",
+      "bz": "无",
+      "id": "ksList1631843513018"
+    }
+  ],
+  "jclxList": [
+    {
+      "bm": "1",
+      "name": "理化",
+      "bz": "无",
+      "id": "jclxList1631682579246"
+    },
+    {
+      "bm": "2",
+      "name": "微生物",
+      "bz": "无",
+      "id": "jclxList1631682587691"
+    },
+    {
+      "bm": "3",
+      "name": "自检",
+      "bz": "无",
+      "id": "jclxList1631695785119"
+    }
+  ],
+  "jcxmList": [
+    {
+      "bm": "1",
+      "name": "pH",
+      "wpdsx": "1",
+      "lrsx": "1",
+      "jclx": "理化",
+      "cs": "1",
+      "dw": "ml",
+      "xzbz1": "20",
+      "xzbz2": "1",
+      "jyff": "123",
+      "jyyj": "1",
+      "bz": "1",
+      "zcjg": "1ml",
+      "jyjg": "",
+      "id": "jcxmList1631761322963"
+    },
+    {
+      "bm": "2",
+      "name": "大肠杆菌",
+      "wpdsx": "2",
+      "lrsx": "2",
+      "jclx": "微生物",
+      "cs": "2",
+      "dw": "2",
+      "xzbz1": "2",
+      "xzbz2": "2",
+      "jyff": "2",
+      "jyyj": "2",
+      "bz": "2",
+      "zcjg": "2",
+      "jyjg": "",
+      "id": "jcxmList1631761332019"
+    },
+    {
+      "bm": "3",
+      "name": "金黄色葡萄球菌",
+      "wpdsx": "3",
+      "lrsx": "3",
+      "jclx": "微生物",
+      "cs": "3",
+      "dw": "3",
+      "xzbz1": "3",
+      "xzbz2": "3",
+      "jyff": "3",
+      "jyyj": "3",
+      "bz": "3",
+      "zcjg": "3",
+      "jyjg": "",
+      "id": "jcxmList1631761340164"
+    },
+    {
+      "bm": "3",
+      "name": "细菌总数",
+      "wpdsx": "3",
+      "lrsx": "3",
+      "jclx": "微生物",
+      "cs": "3",
+      "dw": "3",
+      "xzbz1": "3",
+      "xzbz2": "3",
+      "jyff": "3",
+      "jyyj": "3",
+      "bz": "3",
+      "zcjg": "3",
+      "jyjg": "",
+      "id": "jcxmList1631867358464"
+    },
+    {
+      "bm": "123123",
+      "name": "铁",
+      "wpdsx": "2",
+      "lrsx": "12",
+      "jclx": "理化",
+      "cs": "12",
+      "dw": "mg/L",
+      "xzbz1": "12",
+      "xzbz2": "12",
+      "jyff": "12",
+      "jyyj": "12",
+      "bz": "12",
+      "zcjg": "12",
+      "jyjg": "",
+      "id": "jcxmList1631867473765"
+    }
+  ],
+  "yblxList": [],
+  "ybmcList": [],
+  "dybsList": [],
+  "kszlList": [
+    "检查",
+    "检验",
+    "功能"
+  ],
+  "csList": [
+    {
+      "bm": "1",
+      "name": "食堂",
+      "bz": "1",
+      "id": "csList1631755469427"
+    },
+    {
+      "bm": "2",
+      "name": "寝室",
+      "bz": "2",
+      "id": "csList1631755475836"
+    },
+    {
+      "bm": "1",
+      "name": "1",
+      "bz": "1",
+      "id": "csList1631762910899"
+    },
+    {
+      "bm": "3",
+      "name": "3",
+      "bz": "3",
+      "id": "csList1631762914658"
+    },
+    {
+      "bm": "4",
+      "name": "4",
+      "bz": "4",
+      "id": "csList1631762919002"
+    },
+    {
+      "bm": "5",
+      "name": "5",
+      "bz": "5",
+      "id": "csList1631762923218"
+    },
+    {
+      "bm": "6",
+      "name": "6",
+      "bz": "6",
+      "id": "csList1631762926106"
+    },
+    {
+      "bm": "7",
+      "name": "7",
+      "bz": "7",
+      "id": "csList1631762929346"
+    },
+    {
+      "bm": "8",
+      "name": "8",
+      "bz": "8",
+      "id": "csList1631762932283"
+    },
+    {
+      "bm": "9",
+      "name": "9",
+      "bz": "9",
+      "id": "csList1631762935074"
+    },
+    {
+      "bm": "0",
+      "name": "0",
+      "bz": "0",
+      "id": "csList1631762938715"
+    },
+    {
+      "bm": "11",
+      "name": "11",
+      "bz": "11",
+      "id": "csList1631762942245"
+    },
+    {
+      "bm": "12",
+      "name": "12",
+      "bz": "12",
+      "id": "csList1631762946018"
+    },
+    {
+      "bm": "14",
+      "name": "14",
+      "bz": "14",
+      "id": "csList1631762973186"
+    }
+  ],
+  "xsjcdxList": [
+    {
+      "name": "空气",
+      "bz": "33333",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "物体表面",
+      "bz": "111"
+    },
+    {
+      "id": "3",
+      "name": "医务人员手",
+      "bz": "111"
+    },
+    {
+      "id": "4",
+      "name": "无菌医疗器械",
+      "bz": "111"
+    },
+    {
+      "id": "5",
+      "name": "使用中的消毒液",
+      "bz": "111"
+    },
+    {
+      "id": "6",
+      "name": "紫外线灯强度",
+      "bz": "111"
+    },
+    {
+      "id": "7",
+      "name": "压力蒸汽灭菌计器",
+      "bz": "111"
+    }
+  ],
+  "ggcsjcdxList": [
+    {
+      "name": "学校",
+      "bz": "11111",
+      "id": "1"
+    },
+    {
+      "name": "游泳馆",
+      "bz": "22222",
+      "id": "2"
+    },
+    {
+      "name": "饭店",
+      "bz": "33333",
+      "id": "3"
+    }
+  ],
+  "xswpdList": [],
+  "ggcswpdList": [],
+  "xsjyList": [],
+  "ggcsjyList": [],
+  "foldersSetting": {
+    "ggcsjygl": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "ggcsbgdyxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsbgdyxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsbgfhxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsbgfhxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsbgshqfxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsbgshqfxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsdjjsxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsdjjsxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsjglrxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsjglrxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    },
+    "ggcswpgl": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "ggcsckwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsjcdxwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsscwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ggcsxgwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    },
+    "jcsz": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "cswh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "dybswh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "jclxwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "jcxmwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "kswh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "yblxwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "ybmcwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    },
+    "xsjygl": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "xsbgdyxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsbgdyxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsbgfhxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsbgfhxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsbgshqfxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsbgshqfxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsdjjsxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsdjjsxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsjglrxslh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsjglrxswsw": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    },
+    "xswpgl": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "xsckwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsjcdxwh": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsscwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "xsxgwpd": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    },
+    "xtsz": {
+      "sort": 0,
+      "chineseName": "",
+      "icon": "",
+      "children": {
+        "xgmm": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        },
+        "yhqx": {
+          "sort": 0,
+          "chineseName": "",
+          "icon": ""
+        }
+      }
+    }
+  }
+}
